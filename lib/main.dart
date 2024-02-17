@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 
 void main() {
   runApp(const MyApp());
@@ -113,3 +114,10 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+=======
+import 'package:project3/bmicalc.dart';
+void main() {
+  runApp(MaterialApp(home: Bmicalc(),));
+}
+
+>>>>>>> e204509 (Initial commit)
